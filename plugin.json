@@ -1,0 +1,20 @@
+{
+	"logo": "logo.png",
+	"main": "index.html",
+	"preload": "preload.js",
+	"name": "your plugin ID",
+	"version": "1.0.0",
+	"pluginName": "template",
+	"description": "plugin template",
+	"author": "kelisiWu123",
+	"homepage": "https://github.com/kelisiWu123",
+	"features": [
+		{
+			"code": "template",
+			"explain": "插件模板主界面",
+			"cmds": [
+				"template"
+			]
+		}
+	]
+}
